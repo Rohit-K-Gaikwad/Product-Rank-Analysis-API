@@ -1,0 +1,7 @@
+Assignment follows
+--------------------------
+
+Give the Ranking data in the attached file; you need to find the following
+1. Find all the product ids that have a positive trend
+2. Find all the product ids that have a negative trend
+3. For each of the distinct keywords in the set, predict the next ranking(only for the common product ids)
