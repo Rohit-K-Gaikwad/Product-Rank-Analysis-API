@@ -1,4 +1,6 @@
 .venv
 \venv
+#Ignore all vscode cache file
 .vscode
-.xlsx
+#Ignore all xlsx files
+*.xlsx
